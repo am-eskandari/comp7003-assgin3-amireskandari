@@ -105,5 +105,3 @@ This assignment is packed with hands-on tasks that require a clear understanding
 - Test commands/tools like `hping3` and `ncat` in a controlled environment.
 - Break work into sections and focus on one at a time.
 - Revisit the assignment rubric to align your submission with grading criteria.
-
-Let me know if you need help with any of these steps, lovely! We’ll crush this assignment together. 💻✨
